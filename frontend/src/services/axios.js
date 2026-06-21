@@ -2,7 +2,7 @@ import axios from "axios";
 
 const api = axios.create({
   baseURL:
-    "http://127.0.0.1:8000",
+    "https://inventory-management-1-f2bh.onrender.com",
 });
 
 api.interceptors.request.use(
