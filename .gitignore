@@ -1,0 +1,12 @@
+# Python cache files
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Node modules
+node_modules/
+dist/
