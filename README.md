@@ -188,13 +188,13 @@ docker-compose up --build
 Application URLs:
 
 Frontend:
-http://localhost:5173
+inventory-management-lovat-one.vercel.app
 
 Backend:
-http://localhost:8000
+https://inventory-management-1-f2bh.onrender.com
 
-Swagger:
-http://localhost:8000/docs
+Docker Backend Image:
+https://hub.docker.com/repository/docker/jatinrao/inventory-backend/general
 
 ---
 
