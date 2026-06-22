@@ -4,7 +4,7 @@ const api = axios.create({
 
   baseURL:
     import.meta.env.VITE_API_URL ||
-    "http://127.0.0.1:8000",
+    "https://inventory-management-1-f2bh.onrender.com",
 
   headers: {
     "Content-Type":
